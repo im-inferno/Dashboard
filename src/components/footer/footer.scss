@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    &:first-child{
+        font-weight:bolder;
+    }
+    &:last-child{
+        font-size: 14px;
+    }
+}      
