@@ -22,7 +22,7 @@ This project is a React-based dashboard application. It provides a visually enga
 ## Installation Guide
 
 ### Prerequisites
-- Node.js (>= 14.x)
+- Node.js 
 - npm (Node package manager)
 
 
