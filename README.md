@@ -25,4 +25,5 @@ This project is a React-based dashboard application. It provides a visually enga
 - Node.js 
 - npm (Node package manager)
 
-
+### Steps to Run the Project
+- npm run dev
