@@ -1,4 +1,4 @@
-# Dashboard - React Project
+# DashCore - React Project
 
 ## Overview
 This project is a React-based dashboard application. It provides a visually engaging interface that displays various types of data using **Recharts** for data visualization and **@mui/x-data-grid** for efficient data grid rendering. The dashboard is fully responsive and customizable for different use cases like admin panels, analytics, and reporting.
